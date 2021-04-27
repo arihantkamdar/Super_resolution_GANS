@@ -3,6 +3,12 @@ This Repository contains the implementation  of Super Resolution Gans from Scrat
 
 
 For understanding the basics of the Super Resolution GANs, read the SRGAN_article.docx
+
+
 For understading the training process of custom SRGANS created for this repository please go through SRGANS.ipynb files
+
+
 For implementing the pre build model of SRGANS (ESRGANS) refer the code in driver_code_of_SRGANS
+
+
 Some images has been uploaded for demostraion purposes in images folder
